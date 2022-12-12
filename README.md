@@ -12,7 +12,7 @@
 ![](https://github-trophies.vercel.app/?username=Rizone2k&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://imgflip.com/i/7424uk" width="512px"/>
 
 ---
 
