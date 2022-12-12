@@ -12,7 +12,7 @@
 ![](https://github-trophies.vercel.app/?username=Rizone2k&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 😂Hmmmmm
-<img src="(https://i.imgflip.com/7424uk.jpg)" width="512px"/>
+![](https://i.imgflip.com/7424uk.jpg)
 
 ---
 
