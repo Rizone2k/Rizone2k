@@ -15,5 +15,5 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rizone2k&icon=8&color=0)](https://visitcount.itsvg.in)
+
 
