@@ -11,8 +11,8 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Rizone2k&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 😂Random Dev Meme
-<img src="https://imgflip.com/i/7424uk" width="512px"/>
+### 😂Hmmmmm
+<img src="(https://i.imgflip.com/7424uk.jpg)" width="512px"/>
 
 ---
 
