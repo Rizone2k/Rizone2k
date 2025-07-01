@@ -36,9 +36,9 @@ React, NextJS, TailwindCSS, SEO, working with REST APIs, or just how to get star
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Rizone2k/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nhan-huynh-dev/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/20759068/rizone) 
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Rizone2k&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rizone2k&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizone2k&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Rizone2k&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rizone2k&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizone2k&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Rizone2k&theme=radical&no-frame=false&no-bg=false&margin-w=4)
